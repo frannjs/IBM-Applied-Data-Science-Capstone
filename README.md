@@ -1,2 +1,2 @@
-# IBM-Applied-Data-Science-Capstone
-This is the Data Science Capstone, the last course of a 10 course series for IBM Professional Certificate
+# 🧑‍🔬 Applied Data Science Capstone
+This capstone is the 10th (final) course in [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science
